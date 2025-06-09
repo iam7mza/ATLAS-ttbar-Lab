@@ -1,0 +1,31 @@
+Cut,Passed,AbsoluteEff(%),RelativeEff(%)
+Initial,50000,100.00,100.00
+Exactly one lepton,50000,100.00,100.00
+Lepton pT cut,50000,100.00,100.00
+Lepton |η| < 2.5,50000,100.00,100.00
+Exactly four jets,3496,6.99,6.99
+Jet pT cut,3496,6.99,100.00
+At least one b-tagged jet,1545,3.09,44.19
+MET cut,50000,100.00,3236.25
+All cuts,648,1.30,1.30
+
+ScanType,CutValue,PassedEvents,Efficiency(%)
+Lepton_pT,20000.00,50000,100.00
+Lepton_pT,25000.00,50000,100.00
+Lepton_pT,30000.00,42364,84.73
+Lepton_pT,35000.00,29906,59.81
+Lepton_pT,40000.00,17925,35.85
+Jet_pT,30000.00,14199,28.40
+Jet_pT,40000.00,9567,19.13
+Jet_pT,50000.00,6974,13.95
+Jet_pT,70000.00,3780,7.56
+bTag_Thresh,0.75,1892,3.78
+bTag_Thresh,0.80,1675,3.35
+bTag_Thresh,0.83,1545,3.09
+bTag_Thresh,0.85,1462,2.92
+bTag_Thresh,0.90,1241,2.48
+MET,20000.00,42154,84.31
+MET,25000.00,38164,76.33
+MET,30000.00,32877,65.75
+MET,35000.00,26412,52.82
+MET,40000.00,19721,39.44
